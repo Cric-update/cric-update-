@@ -1,5 +1,5 @@
-{
-  "streams": [
+
+  "streams": [@CricketupdatesTg
     {
       "language": "English",
       "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1260524/master.m3u8"
